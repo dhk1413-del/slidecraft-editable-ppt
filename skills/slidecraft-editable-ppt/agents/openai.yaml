@@ -1,0 +1,4 @@
+interface:
+  display_name: "SlideCraft 图片转可编辑 PPT"
+  short_description: "把图片、PDF 或图片版 PPT 重建为可编辑 PPTX"
+  default_prompt: "Use $slidecraft-editable-ppt to reconstruct the input as editable PowerPoint objects where source evidence permits, and report remaining raster elements."
